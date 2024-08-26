@@ -15,5 +15,5 @@ Welcome to the Women in Computing (WIC) GitHub! 🌟 We're a community of coders
 We’re here to empower, connect, and inspire—join us on our journey to make tech more inclusive! 💜
 
 ## Projects
-### [I Miss My Cafe](https://github.com/WIC-UCSD-Project-Teams/i-miss-my-cafe)
-### [Weather App](https://github.com/WIC-UCSD-Project-Teams/weather-app)
+### [I Miss My Cafe](https://github.com/WIC-UCSD-Project-Teams/i-miss-my-cafe) -- Learn how to create a basic website using HTML/CSS and access resources!
+### [Weather App](https://github.com/WIC-UCSD-Project-Teams/weather-app) -- Learn how to implement JavaScript functionalities to make your website more interactive!
