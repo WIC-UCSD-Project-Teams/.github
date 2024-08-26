@@ -13,3 +13,7 @@ Welcome to the Women in Computing (WIC) GitHub! 🌟 We're a community of coders
 🔗 [Facebook](https://facebook.com/wicucsd) | [LinkedIn](https://linkedin.com/in/wicucsd) | [Discord](https://wic.ucsd.edu/discord) | [Instagram](https://instagram.com/wicucsd)  
 
 We’re here to empower, connect, and inspire—join us on our journey to make tech more inclusive! 💜
+
+## Projects
+### [I Miss My Cafe](https://github.com/WIC-UCSD-Project-Teams/i-miss-my-cafe)
+### [Weather App](https://github.com/WIC-UCSD-Project-Teams/weather-app)
