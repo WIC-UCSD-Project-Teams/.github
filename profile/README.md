@@ -12,6 +12,9 @@ Welcome to the Women in Computing (WIC) GitHub! 🌟 We're a community of coders
 ### [Weather App](https://github.com/WIC-UCSD-Project-Teams/weather-app) -- Learn how to implement JavaScript functions and APIs to make your website more interactive!
 ### [Buzzfeed Page](https://github.com/WIC-UCSD-Project-Teams/buzzfeed-page) -- Learn how to create a fun interactive website using HTML, CSS, and Javascript!
 
+## Workshops
+### [CSS Workshop](https://github.com/WIC-UCSD-Project-Teams/css-workshop) -- Learn CSS through our interactive CSS Workshop!
+
 ## 💬 Get in Touch
 📧 [wic.ucsd@gmail.com](mailto:wic.ucsd@gmail.com)  
 🌐 [wic.ucsd.edu](https://wic.ucsd.edu/)  
